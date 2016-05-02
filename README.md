@@ -9,13 +9,13 @@ for publication in Nature Communications, 2016. The samples, data acquisition an
 The following data files are given:
 
 Au144PET_100K_APS.chi
-Au144PET_100K.gr
+Au144PET_100K_APS.gr
 Au144SC4_100K_APS.chi
-Au144SC4_100K.gr
+Au144SC4_100K_APS.gr
 Au144SC6_100K_APS.chi
-Au144SC6_100K.gr
+Au144SC6_100K_APS.gr
 Au144SC12_100K_APS.chi
-Au144SC12_100K.gr
+Au144SC12_100K_APS.gr
 Kapton_APS.chi
 Au144pMBA_100K_ESRF.chi
 Au144pMBA60_100K.gr
