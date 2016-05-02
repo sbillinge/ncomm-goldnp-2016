@@ -18,7 +18,7 @@ Au144SC12_100K_APS.chi
 Au144SC12_100K_APS.gr
 Kapton_APS.chi
 Au144pMBA_100K_ESRF.chi
-Au144pMBA60_100K.gr
+Au144pMBA_100K_ESRF.gr
 
 Datasets from 5 different samples are deposited:  Au144(PET)60, Au144(SC4)60, Au144(SC6)60, Au144(SC12)60 and Au144(pMBA)60, as stated in the file names. All scattering data are measured at 100K.
 The first 4 datasets were obtained at 11-ID-B, APS, with a wavelength of 0.143 Å. The data are given as integrated total scattering data in Q (nm^-1) (.chi-files) and as reduced PDFs, i.e. .gr-files. The file names "Kapton_100K_APS.chi" is the background file to be used with the APS data.
