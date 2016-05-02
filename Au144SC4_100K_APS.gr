@@ -2,8 +2,8 @@
 [PDF]
 wavelength = 0.18597
 dataformat = Qnm
-inputfile = Au144SC4_100K_take3-00000.chi
-backgroundfile = Kapton-00000.chi
+inputfile = Au144SC4_100K_APS.chi
+backgroundfile = Kapton_APS.chi
 mode = xray
 bgscale = 2.0
 composition = Au144 S60 C240 H540

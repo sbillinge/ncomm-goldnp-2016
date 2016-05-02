@@ -4,7 +4,7 @@ version = pdfgetx3-1.0-r2239-20130415
 
 # input and output specifications
 dataformat = Qnm
-inputfile = Gold144_2_m10000.chi
+inputfile = Au144pMBA_100K_ESRF.chi
 backgroundfile =
 outputtype = gr
 
