@@ -10,7 +10,6 @@ outputtype = gr
 
 # PDF calculation setup
 mode = xray
-wavelength = 0.1774
 composition = Au
 bgscale = 1
 rpoly = 0.9

@@ -1,6 +1,5 @@
 # PDFgetXgui Configuration #
 [PDF]
-wavelength = 0.18597
 dataformat = Qnm
 inputfile = Au144PET_100K_APS.chi
 backgroundfile = Kapton_APS.chi
