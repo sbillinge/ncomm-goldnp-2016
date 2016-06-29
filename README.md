@@ -38,5 +38,19 @@ data.  The last dataset, Au144pMBA_100K_ESRF, was obtained at the European
 Synchrotron Radiation Facility (ESRF) beamline ID11 using X-ray wavelength of
 0.177 Å.  Here, the background has already been subtracted.
 
+The folder also contains atom coordinates for the 114-atom gold core and
+different staple configurations that are shown in the Supplementary
+Information:
+
+- Au114_dec6341.xyz
+- Au144_MD6341surface1.xyz
+- Au144_MD6341surface2.xyz
+- Au144_MD6341surface3.xyz
+- Au144_MD6341surface4.xyz
+- Au144_MD6341surface5.xyz
+- Au144_MD6341surface6.xyz
+- Au144_MD6341surface7.xyz
+- Au144_MD6341surface8.xyz
+
 Please contact Prof. Simon J. L. Billinge sb2896@columbia.edu from
 Columbia University for any questions regarding the data and their use.
